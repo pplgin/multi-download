@@ -1,7 +1,7 @@
 {
   "name": "@pplgin/multi-download",
   "version": "1.0.0",
-  "description": "nodejs下载",
+  "description": "Nodejs 多文件下载",
   "keywords": [
     "download",
     "nodejs"
@@ -23,5 +23,13 @@
   "dependencies": {
     "adm-zip": "^0.4.13",
     "mkdirp": "^0.5.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pplgin/multi-download/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pplgin/multi-download.git"
+  },
+  "homepage": "https://github.com/pplgin/multi-download#readme"
 }
