@@ -1,0 +1,27 @@
+{
+  "name": "@pplgin/multi-download",
+  "version": "1.0.0",
+  "description": "nodejs下载",
+  "keywords": [
+    "download",
+    "nodejs"
+  ],
+  "author": "jiangshuai <johnnyjiang813@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "node __tests__/donwload.test.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "mkdirp": "^0.5.1"
+  }
+}
